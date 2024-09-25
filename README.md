@@ -30,7 +30,7 @@
     DB_PASSWORD=root
     DB_DATABASE=combat-admin
 
-    JWT_SECRET=itwsr
+    JWT_SECRET=
 
 5. Migrate：数据库中新建表，数据初始化
 
